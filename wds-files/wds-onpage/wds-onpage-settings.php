@@ -12,21 +12,21 @@ function wds_seoopt_settings() {
 
 	$description = sprintf( __( '<p>Ändere die Felder unten, um die Titel und Meta-Beschreibungen Deiner Webseitenseiten anzupassen. <a href="https://n3rds.work/docs/ps-seo-handbuch#ps-seo-makros" target="_blank">Klicke hier, um die Liste der unterstützten Makros anzuzeigen.</a></p>
 
-	<p>Suchmaschinen lesen den Titel und die Beschreibung für jedes Element Ihrer Website. Die folgenden Felder werden durch Makros festgelegt, um Standardinformationen einzugeben. Du kannst sie nach Deinen Wünschen anpassen und auf die unterstützten Makros verweisen, indem Du auf die Schaltfläche Hilfe klickst.</p>
+	<p>Suchmaschinen lesen den Titel und die Beschreibung für jedes Element Deiner Webseite. Die folgenden Felder werden durch Makros festgelegt, um Standardinformationen einzugeben. Du kannst sie nach Deinen Wünschen anpassen und auf die unterstützten Makros verweisen, indem Du auf die Schaltfläche Hilfe klickst.</p>
 
 	<p>Es scheint allgemein anerkannt zu sein, dass die Meta-Tags "Titel" und "Beschreibung" wichtig sind, um effektiv zu schreiben, da sie von mehreren großen Suchmaschinen in ihren Indizes verwendet werden. Verwende relevante Schlüsselwörter in Deinem Titel und variiere die Titel auf den verschiedenen Seiten Deiner Webseite, um so viele Schlüsselwörter wie möglich zu finden. Das Meta-Tag "Beschreibung" wird von einigen Suchmaschinen als kurze Zusammenfassung Ihrer URL verwendet. Stelle daher sicher, dass Deine Beschreibung Suchende auf Deine Webseite lockt.</p>
 
 	<p>Das Meta-Tag "Beschreibung" wird im Allgemeinen als das wertvollste und am wahrscheinlichsten indizierte angesehen. Achte daher besonders auf dieses.</p>
 
-	<p>Hier ist ein Beispiel, wie es in WPMU DEV angepasst wurde.</p>
+	<p>Hier ist ein Beispiel, wie es in WMS N@W angepasst wurde.</p>
 
 	<p>Die Seiten-Beschreibung (Slogan) lautet:
 
-	<blockquote>WPMU DEV WordPress, Multisite & BuddyPress</blockquote>
+	<blockquote>WMS N@W, Multisite & BuddyPress</blockquote>
 
-	Es wurde jedoch so angepasst, dass die Home-Meta-Beschreibung WPMU DEV Premium lautet:
+	Es wurde jedoch so angepasst, dass die Home-Meta-Beschreibung "WMS N@W Premium" lautet:
 
-	<blockquote>widmet sich Plugins, Themen, Ressourcen und Support, um Sie bei der Erstellung der absolut besten WordPress MU (WPMU)-Seite zu unterstützen, die Sie können.</blockquote>
+	<blockquote>widmet sich Plugins, Themen, Ressourcen und Support, um Dich bei der Erstellung der absolut besten WordPress MU (WPMU)-Seite zu unterstützen, die Du kannst.</blockquote>
 
 	<p><img src="%s" alt="title and description sample" /></p>
 
