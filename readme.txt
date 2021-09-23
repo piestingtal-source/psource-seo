@@ -46,8 +46,9 @@ Halte Dich mit unserem [Newsletter](https://n3rds.work/webmasterservice-n3rdswor
 
 = 1.7.8 = DerN3rd =
 
+* Fix PHP Deprecated: mktime()
 * Fix deprecated constructor
-* Fix depracated create_function
+* Fix deprecated create_function
 * Updater aktualisiert
 * Readme erneuert
 
