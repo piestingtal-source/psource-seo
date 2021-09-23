@@ -13,21 +13,12 @@ Jede SEO-Option, die eine Webseite WIRKLICH benötigt, in einem einfachen Paket.
 
 == Description ==
 
-Mit PS-BeitragsADS werden Anzeigen dort geschaltet, wo Nutzer am meisten mit Deinen Inhalten beschäftigt sind.
-Besucher können blind für Banner- und Seitenleistenwerbung sein. Mit PS-BeitragsADS wird dieses Problem gelöst, 
-indem unauffällige Anzeigen in den Inhalt Deiner Webseite eingefügt werden.
-
-Anzeigen, die nicht nerven
-Mit PS-BeitragsADS wird genau die richtige Menge Pop verwendet, ohne dass Deine Inhalte beeinträchtigt werden. 
-Beginne mit einem integrierten Stil oder erstelle einen benutzerdefinierten Look. 
-Biete angemeldeten Benutzern ein werbefreies Leseerlebnis und ermutige die Besucher, ein Upgrade durchzuführen.
-
 [POWERED BY PSOURCE](https://n3rds.work/psource_kategorien/psource-plugins/)
 
 [Projektseite](https://n3rds.work/piestingtal_source/in-post-ads-plugin/)
 [Handbuch](https://n3rds.work/docs/ps-seo-handbuch/)
 [Supportforum](https://n3rds.work/forums/forum/ps-voting-supportforum/)
-[GitHub](https://github.com/piestingtal-source/ps-post-ads)
+[GitHub](https://github.com/piestingtal-source/psource-seo)
 
 == Mehr PSOURCE ==
 
