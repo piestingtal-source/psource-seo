@@ -4,11 +4,11 @@
 Plugin Name: PSOURCE SEO TOOL
 Plugin URI: https://n3rds.work
 Description: Jede SEO-Option, die eine Webseite WIRKLICH benötigt, in einem einfachen Paket.
-Version: 1.7.7
+Version: 1.7.8
 Network: true
 Text Domain: wds
 Author: WMS N@W
-Author URI: http://n3rds.work
+Author URI: https://n3rds.work
 */
 
 
@@ -45,14 +45,14 @@ Author URI: http://n3rds.work
 
 */
 
-require 'wds-files/plugin-update-checker/plugin-update-checker.php';
+require 'psource/psource-plugin-update/psource-plugin-updater.php';
 $MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=psource-seo', //Metadata URL.
-	__FILE__, //Full path to the main plugin file.
-	'psource-seo' //Plugin slug. Usually it's the same as the name of the directory.
+	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=psource-seo', 
+	__FILE__, 
+	'psource-seo' 
 );
 
-define( 'WDS_VERSION', '1.7.7' );
+define( 'WDS_VERSION', '1.7.8' );
 
 
 
@@ -61,8 +61,6 @@ define( 'WDS_VERSION', '1.7.7' );
  * Autolinks module contains code from SEO Smart Links plugin
 
  * (http://wordpress.org/extend/plugins/seo-automatic-links/ and http://www.prelovac.com/products/seo-smart-links/)
-
- * by Vladimir Prelovac (http://www.prelovac.com/).
 
  */
 
